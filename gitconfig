@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = huilingt@hotmail.com
+	name = Huiling Tan
